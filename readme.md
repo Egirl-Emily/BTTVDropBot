@@ -3,19 +3,19 @@
   <br><br>
 <img src="https://i.imgur.com/1GsJiTG.png" alt="Discord"><h3 align="center">Farms automatically Twitch Drops, Points & Subscriptions for you!</h3></p>
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/Egirl-Emily/Enhanced-TTVDropBot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Egirl-Emily/BTTVDropBot/tree/main">
   <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/HerokuDeploy.svg" alt="Deploy" height="30">
 </a>
       <a href="https://railway.app/new/template/WLQZfq?referralCode=ljmXT2">
 <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/RailwayDeploy.svg" alt="Deploy on Railway" height="30">
       </a>
-      <a href="https://deploy.cloud.run?git_repo=https://github.com/Egirl-Emily/Enhanced-TTVDropBot">
+      <a href="https://deploy.cloud.run?git_repo=https://github.com/Egirl-Emily/BTTVDropBot">
 <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/GoogleDeploy.svg" alt="Deploy on Google Cloud" height="30">
       </a>
-      <a href="https://replit.com/new/github/Egirl-Emily/Enhanced-TTVDropBot">
+      <a href="https://replit.com/new/github/Egirl-Emily/BTTVDropBot">
 <img src="https://raw.githubusercontent.com/PockySweet/repo-resources/main/buttons/ReplitDeploy.svg" alt="Run on Repl.it" height="30">
       </a>
-<a href="https://render.com/deploy?repo=https://github.com/Egirl-Emily/Enhanced-TTVDropBot">
+<a href="https://render.com/deploy?repo=https://github.com/Egirl-Emily/BTTVDropBot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="30">
 </a>
       </p>
